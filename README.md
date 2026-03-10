@@ -26,7 +26,7 @@
 ## 快速开始
 ```bash
 # 克隆仓库
-git clone https://github.com/YanYunSY/pandas_analysis_camp.git
+git clone https://github.com/YanYunSY/Pandas_Analysis.git
 
 # 安装依赖
 pip install pandas numpy matplotlib openpyxl
